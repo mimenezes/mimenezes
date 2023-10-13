@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Micky Menezes
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Programmig
 - 💞️ I’m looking to collaborate on C++, Python, Perl
 - 📫 How to reach me micmen@gmail.com
 
